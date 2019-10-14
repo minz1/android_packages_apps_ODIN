@@ -1,3 +1,5 @@
+LOCAL_PATH := $(call my-dir)
+
 include $(CLEAR_VARS)
 LOCAL_MODULE := ODIN
 LOCAL_SRC_FILES := ODIN_dev_debug_4.3.3_111019.apk
