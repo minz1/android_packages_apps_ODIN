@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := ODIN
-LOCAL_SRC_FILES := ODIN_dev_debug_4.3.4_311019.apk
+LOCAL_SRC_FILES := ODIN-3.26.13-v1-user-armeabi-v7a-debug_Kim_Taylor.apk
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
